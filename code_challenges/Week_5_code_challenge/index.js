@@ -1,4 +1,6 @@
 
+<<<<<<< HEAD
+=======
 
 const quotesContainer = document.querySelector('.quotes')
 const randButt = document.querySelector('.randButton')
@@ -57,6 +59,7 @@ const quoteRenderer = ({anime, quote, character}) => {
 
 data.forEach(elem => quoteRenderer(elem))
 
+>>>>>>> master
 {/*  */}
 {/* <insert-polular-character-name-here> */}
 {/* <insert-pop-anime> */}
